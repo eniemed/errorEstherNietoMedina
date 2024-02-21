@@ -1,0 +1,202 @@
+[
+	{
+		"id": 1,
+		"name": "Signature Blend",
+		"price": 12.99,
+		"flavor_name": "Dark Chocolate",
+		"description": "A rich, full-bodied coffee with notes of dark chocolate and black cherry.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y78Qt.webp",
+		"region": "Central America"
+	},
+	{
+		"id": 2,
+		"name": "Golden Sunrise",
+		"price": 10.99,
+		"flavor_name": "Citrus",
+		"description": "A smooth and bright coffee with a citrusy kick.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7WEg.webp",
+		"region": "Africa"
+	},
+	{
+		"id": 3,
+		"name": "Rainforest Rhapsody",
+		"price": 14.99,
+		"flavor_name": "Cocoa",
+		"description": "An earthy and complex coffee with notes of toasted nuts and caramel.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7kTN.webp",
+		"region": "South America"
+	},
+	{
+		"id": 4,
+		"name": "Harvest Moon",
+		"price": 9.99,
+		"flavor_name": "Cocoa",
+		"description": "A smooth and earthy blend with notes of cocoa and hazelnut.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7X4a.webp",
+		"region": "Central America"
+	},
+	{
+		"id": 5,
+		"name": "Wildfire",
+		"price": 12.99,
+		"flavor_name": "Dark Chocolate",
+		"description": "A bold and smoky blend with notes of dark chocolate and molasses.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7r4s.webp",
+		"region": "Africa"
+	},
+	{
+		"id": 6,
+		"name": "Walnut Wonder",
+		"price": 9.99,
+		"flavor_name": "Nutty",
+		"description": "A smooth and nutty coffee from the slopes of South America.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7gGn.webp",
+		"region": "South America"
+	},
+	{
+		"id": 7,
+		"name": "Breezy Beans",
+		"price": 11.99,
+		"flavor_name": "Citrus",
+		"description": "This coffee blend is made from beans sourced from Honduras and Costa Rica. It is a light roast coffee with a bright and citrusy flavor profile. It is perfect for pour-over and drip coffee brewing methods.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7lpV.webp",
+		"region": "Central America"
+	},
+	{
+		"id": 8,
+		"name": "Indo-Viet Roast",
+		"price": 13.99,
+		"flavor_name": "Spicy",
+		"description": "This coffee blend is made from beans sourced from Indonesia and Vietnam. It is a medium-dark roast coffee with a spicy and earthy flavor profile, with notes of cinnamon and clove. It is perfect for drip and French press brewing methods.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7wYv.webp",
+		"region": "Asia Pacific"
+	},
+	{
+		"id": 9,
+		"name": "Ethiopian Yirgacheffe",
+		"price": 12.99,
+		"flavor_name": "Blueberry",
+		"description": "A light and fruity coffee with notes of blueberry and citrus. Grown in the highlands of Ethiopia, this coffee is sure to brighten up your morning.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7VCF.webp",
+		"region": "Africa"
+	},
+	{
+		"id": 10,
+		"name": "Lazy Days",
+		"price": 9.99,
+		"flavor_name": "Hazelnut",
+		"description": "A medium-bodied coffee with a sweet and nutty flavor. Grown in the lush regions of Brazil, this coffee is perfect for a lazy afternoon.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7NvR.webp",
+		"region": "South America"
+	},
+	{
+		"id": 11,
+		"name": "Andean Almond",
+		"price": 10.99,
+		"flavor_name": "Almond",
+		"description": "A smooth and mellow coffee from the mountains of South America, with hints of almond and toffee.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y5Sgj.webp",
+		"region": "South America"
+	},
+	{
+		"id": 12,
+		"name": "Savanna Noir",
+		"price": 12.99,
+		"flavor_name": "Dark Chocolate",
+		"description": "A bold and rich coffee from the African savanna, with notes of dark chocolate and blackcurrant.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7vjI.webp",
+		"region": "Africa"
+	},
+	{
+		"id": 13,
+		"name": "Coconut Kiss",
+		"price": 9.99,
+		"flavor_name": "Coconut",
+		"description": "A light and refreshing coffee from the shores of the Asia Pacific, with a subtle coconut flavor.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7GQ1.webp",
+		"region": "Asia Pacific"
+	},
+	{
+		"id": 14,
+		"name": "Arabian Nights",
+		"price": 13.99,
+		"flavor_name": "Cardamom",
+		"description": "A bold and spicy coffee from the Middle East, with notes of cardamom and cinnamon.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7ckQ.webp",
+		"region": "Middle East"
+	},
+	{
+		"id": 15,
+		"name": "Midnight Mocha",
+		"price": 14.99,
+		"flavor_name": "Dark Chocolate",
+		"description": "Indulge in the rich, velvety flavors of this decadent mocha blend. Dark chocolate and espresso notes are combined with a touch of vanilla for a luxurious coffee experience.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7Opp.webp",
+		"region": "South America"
+	},
+	{
+		"id": 16,
+		"name": "Himalayan Heights",
+		"price": 12.99,
+		"flavor_name": "Floral",
+		"description": "Grown on the steep slopes of the Himalayan Mountains, this coffee is known for its bright acidity and delicate floral notes. This light roast is perfect for those who prefer a more delicate flavor profile.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7j3J.webp",
+		"region": "Asia Pacific"
+	},
+	{
+		"id": 17,
+		"name": "Sumatra Blend",
+		"price": 8.99,
+		"flavor_name": "Dark Chocolate",
+		"description": "Get your day started with the bold and earthy flavors of Sumatra. Grown on the lush tropical slopes of the Gayo Highlands, this coffee is known for its full body, low acidity, and notes of dark chocolate and smoke.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7UCX.webp",
+		"region": "Asia Pacific"
+	},
+	{
+		"id": 18,
+		"name": "Bali Bliss",
+		"price": 11.99,
+		"flavor_name": "Hazelnut",
+		"description": "Escape to the tropical paradise of Bali with this smooth and mellow blend. Grown on small family farms, this coffee is shade-grown and hand-picked for a rich and nuanced flavor profile.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y71TB.webp",
+		"region": "Asia Pacific"
+	},
+	{
+		"id": 19,
+		"name": "Central Perk",
+		"price": 9.99,
+		"flavor_name": "Nutty",
+		"description": "A medium roast coffee with a smooth, nutty flavor and a hint of caramel. Inspired by your favorite coffee shop!",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7aYx.webp",
+		"region": "Central America"
+	},
+	{
+		"id": 20,
+		"name": "Chilean Charm",
+		"price": 12.99,
+		"flavor_name": "Coconut",
+		"description": "This coffee boasts a smooth and balanced flavor, with notes of chocolate, caramel, and a hint of fruit. It has a medium body and a subtle acidity that will leave you feeling refreshed and energized.",
+		"weight": 500,
+		"image": "https:\/\/iili.io\/H8Y7EhP.webp",
+		"region": "South America"
+	}
+]
